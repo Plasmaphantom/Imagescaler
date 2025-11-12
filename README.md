@@ -41,7 +41,7 @@ Zero external deps – only Pillow (installed automatically).
 Quick Start
 bat
 :: 1. Clone the repo
-git clone https://github.com/yourname/comfyui-image-scaler.git
+git clone https://github.com/Plasmaphantom/comfyui-image-scaler.git
 cd comfyui-image-scaler
 
 :: 2. Run the helper (creates venv, installs Pillow, launches GUI)
